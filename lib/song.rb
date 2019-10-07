@@ -7,3 +7,4 @@ class song(name,artist,genre)
 
 
 class.count
+song.genres
