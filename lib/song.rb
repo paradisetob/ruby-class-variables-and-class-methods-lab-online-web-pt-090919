@@ -4,5 +4,5 @@ class song(name,artist,genre)
  :attr_accessor(name,artist,genre)
 
 
- class ninety_nine_problems= song.new
+ class ninety_nine_problems= song.new("99 Problems", "Jay-Z", "rap")
    
