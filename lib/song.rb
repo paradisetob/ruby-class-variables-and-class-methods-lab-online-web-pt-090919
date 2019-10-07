@@ -5,4 +5,4 @@ class song(name,artist,genre)
 
 
  class ninety_nine_problems= song.new("99 Problems", "Jay-Z", "rap")
-   
+   @count=0
